@@ -1,27 +1,25 @@
 ## I’m Kelechi 
-*(..Or you could call me **Tensor**:)*
 
-### Data Scientist/Machine learning engineer
+### Machine learning engineer, Data scientist
 
-I love building models/stuff with Python.
+I **love** building **models**/stuff with Python. 
+Currently hacking on **computer vision**, **audio** and **NLP** tasks.
 
 ### 🛠 &nbsp;Tech Stack
-* **Python**(Machine learning)
-* **Tensorflow/Pytorch/XGBoost**
-* **FastAPI/Django**(Backend)
+* **Python**
+* **Pytorch/Tensorflow/Keras**
 * **Web scraping/Python scripting**
-* **Javascript/Typescript**
+* ...**and whatever the job requires**
 
 
   <div>
     <h2 align="left"> Github stats </h2>
     <h4 align="left"> Languages </h4>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelechi-c&langs_count=5&theme=dark&layout=compact&hide_border=false"
-          alt="overall Top Langs " />
-         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kelechi-c&theme=dark&layout=compact&hide_border=false"
-          alt="Kelechi-c : Top Langs by commit" />
-    <h4 align="left"> Streak </h4>
-      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kelechi-c&theme=highcontrast&border_radius=4.6" alt="GitHub Streak" /></a>
+<!--           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelechi-c&langs_count=5&theme=dark&layout=compact&hide_border=false"
+          alt="overall Top Langs "/> -->
+        
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kelechi-c&theme=dark&layout=compact&hide_border=false"
+          alt="Top Langs by commit" /> 
 </div>
 
 
