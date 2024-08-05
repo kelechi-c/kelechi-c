@@ -1,6 +1,6 @@
 #### I’m Kelechi, a machine learning and AI engineer
 
-Python enjoyer, currently hacking on **computer vision** and **text** models.
+Python enjoyer, currently hacking on **vision** and **audio** models.
 
  <!-- <div>
     <h2 align="left"> Github stats </h2>
