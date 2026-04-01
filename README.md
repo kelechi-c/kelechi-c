@@ -1,7 +1,6 @@
 #### I’m Kelechi, machine learning engineer
 
-ML enjoyer, currently hacking on **generative** modeling for **image** and **audio**, and **model 'bending'**
-
+ML enjoyer, currently hacking on .... who knows ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯
  <!-- <div>
     <h2 align="left"> Github stats </h2>
     <h4 align="left"> Languages </h4>
