@@ -1,6 +1,4 @@
-#### I’m Kelechi, machine learning engineer
-
-ML enjoyer, currently hacking on .... who knows ¯⁠\⁠_⁠(⁠ツ⁠)⁠_⁠/⁠¯
+ML enjoyer, currently hacking on inference optimization for media(image/audio/music) generation, on different chips/accelerators.
  <!-- <div>
     <h2 align="left"> Github stats </h2>
     <h4 align="left"> Languages </h4>
